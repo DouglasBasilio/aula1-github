@@ -10,6 +10,7 @@ public class Main {
 		int idade = 31;
 		double renda = 4000.0;
 		
+		System.out.println("");
 		System.out.println(x);		
 		System.out.printf("%.2f%n", x);
 		System.out.printf("%.4f%n", x);
